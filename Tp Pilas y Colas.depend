@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1686020518 source:d:\unla\segundo año\algortimos y estructuras de datos\tp pilas y colas\billete.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"billete.h"
+
+1686019758 d:\unla\segundo año\algortimos y estructuras de datos\tp pilas y colas\billete.h
+	"pila_void.h"
+
+1689873179 d:\unla\segundo año\algortimos y estructuras de datos\tp pilas y colas\pila_void.h
+
+1685847295 source:d:\unla\segundo año\algortimos y estructuras de datos\tp pilas y colas\banco.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"billete.h"
+	"banco.h"
+
+1686019481 d:\unla\segundo año\algortimos y estructuras de datos\tp pilas y colas\cliente.h
+	"cola_void.h"
+
+1689873088 d:\unla\segundo año\algortimos y estructuras de datos\tp pilas y colas\cola_void.h
+
+1685822248 d:\unla\segundo año\algortimos y estructuras de datos\tp pilas y colas\banco.h
+	"cola_void.h"
+	"pila_void.h"
+
+1686019662 source:d:\unla\segundo año\algortimos y estructuras de datos\tp pilas y colas\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1685846911 source:d:\unla\segundo año\algortimos y estructuras de datos\tp pilas y colas\cola_void.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cola_void.h"
+
+1686343174 source:d:\unla\segundo año\algortimos y estructuras de datos\tp pilas y colas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1685847140 source:d:\unla\segundo año\algortimos y estructuras de datos\tp pilas y colas\pila_void.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila_void.h"
+
+1686017084 d:\unla\segundo año\algortimos y estructuras de datos\tp pilas y colas\menu.h
+
+1686332466 source:d:\unla\segundo año\algortimos y estructuras de datos\tp pilas y colas\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"billete.h"
+	"cliente.h"
+	"banco.h"
+	"cola_void.h"
+	"pila_void.h"
+
